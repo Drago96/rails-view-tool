@@ -1,6 +1,6 @@
 # ProychevViewTool
 
-> Various view specific methods for applications I use
+> Various view specific methods for applications I use.
 
 ## Installation
 
